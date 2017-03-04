@@ -1,0 +1,22 @@
+=head2 Sat Mar  4 23:22:46 2017: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/caoxuanphong/Documents/PROJECT/git-custom/git-master/output//lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
